@@ -1,0 +1,1 @@
+# mayos.application_template
